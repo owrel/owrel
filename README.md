@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Owrel</h1>
 <h3 align="center">Master Student at Potsdam University </h3>
 
-- 🔭 I’m currently working on my Master Thesis in **Plan Merging**
+- 🔭 I’m currently working on my Master Thesis in **MAPF** with the topic *Conflict-based Plan Merging for Multi-agent Pathfinding*
 
 - 📫 How to reach me **aureliensimon.contact@gmail.com**
 
