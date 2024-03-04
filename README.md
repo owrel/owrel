@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurélien «Owrel» SIMON</h1>
-<h3 align="center">Master Student at Potsdam University </h3>
+<h3 align="center">Studies Engineer at the University of Angers</h3>
 
-- 🔭 I’m currently working on my Master Thesis in **MAPF** with the topic *Conflict-based Plan Merging for Multi-agent Pathfinding*
+- 📚 Master Thesis in **MAPF** with the topic *Generate, filter and merge single agent paths for Multi Agent Pathfinding using Answer Set Programming* (report [there](https://github.com/owrel/plan-merging-report))
 
 - 📫 How to reach me **aureliensimon.contact@gmail.com**
 
