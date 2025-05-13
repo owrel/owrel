@@ -3,7 +3,7 @@
 
 - 📚 Master Thesis in **MAPF** with the topic *Generate, filter and merge single agent paths for Multi Agent Pathfinding using Answer Set Programming* (report [there](https://github.com/owrel/plan-merging-report))
 
-- 📫 How to reach me **aureliensimon.contact@gmail.com**
+- 📫 How to reach me **aurelien.simon@mailo.com**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/aurélien-simon)
 
