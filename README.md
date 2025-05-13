@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurélien «Owrel» SIMON</h1>
-<h3 align="center">Studies Engineer at the University of Angers</h3>
+<h3 align="center">Research Engineer at the University of Angers</h3>
 
 - 📚 Master Thesis in **MAPF** with the topic *Generate, filter and merge single agent paths for Multi Agent Pathfinding using Answer Set Programming* (report [there](https://github.com/owrel/plan-merging-report))
 
